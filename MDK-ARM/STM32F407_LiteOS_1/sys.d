@@ -1,0 +1,10 @@
+stm32f407_liteos_1\sys.o: ..\Hardware\sys\sys.c
+stm32f407_liteos_1\sys.o: ..\Hardware\sys\sys.h
+stm32f407_liteos_1\sys.o: ../Drivers/CMSIS/Device/ST/STM32F4xx/Include/stm32f407xx.h
+stm32f407_liteos_1\sys.o: ../Drivers/CMSIS/Include/core_cm4.h
+stm32f407_liteos_1\sys.o: E:\MDK5.24\ARM\ARMCC\Bin\..\include\stdint.h
+stm32f407_liteos_1\sys.o: ../Drivers/CMSIS/Include/core_cmInstr.h
+stm32f407_liteos_1\sys.o: ../Drivers/CMSIS/Include/cmsis_armcc.h
+stm32f407_liteos_1\sys.o: ../Drivers/CMSIS/Include/core_cmFunc.h
+stm32f407_liteos_1\sys.o: ../Drivers/CMSIS/Include/core_cmSimd.h
+stm32f407_liteos_1\sys.o: ../Drivers/CMSIS/Device/ST/STM32F4xx/Include/system_stm32f4xx.h
